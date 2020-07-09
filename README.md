@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm Seognil/LC
+
+- 💻 I build things with TypeScript
+- 🌍 I translate tech docs
+- 📖 I write blogs
+- 🤔 I learn what I don't know
+
+Every expert was once a beginner, my bro.
 
 <!--
 **seognil/seognil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
