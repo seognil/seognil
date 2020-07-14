@@ -1,23 +1,50 @@
-### Hi there 👋 I'm Seognil/LC
+### Hi there 👋
 
-- 💻 I build things with TypeScript
-- 🌍 I translate tech docs
-- 📖 I write blogs
-- 🤔 I learn what I don't know
+I'm seognil / LC / Chris Lin, yet another frontend developer.
 
-Every expert was once a beginner, my bro.
+<!-- ↓ Dude, You are awesome -->
+<!-- https://github.com/syfxlin/syfxlin -->
 
-<!--
-**seognil/seognil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- https://shields.io/category/other -->
+<!-- https://simpleicons.org/ -->
+<!-- https://colorswall.com/ -->
 
-Here are some ideas to get you started:
+⚡ Coding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+&ensp;&ensp;
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-343434?style=flat-square&logo=JavaScript&logoColor=F7DF1E)
+<br/>
+&ensp;&ensp;
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=fff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=Tailwind-CSS&logoColor=fff)
+![RxJS](https://img.shields.io/badge/RxJS-D81B60?style=flat-square&logo=RxJS&logoColor=fff)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=fff)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
+<br/>
+&ensp;&ensp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=fff)
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat-square&logo=Google-Chrome&logoColor=fff)
+
+🏃 Interested
+
+&ensp;&ensp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=fff)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=fff)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=Haskell&logoColor=fff)
+
+🇨🇳 Translation
+
+&ensp;&ensp;
+[![React 中文文档](https://img.shields.io/badge/React%20中文文档-282c34?style=flat-square)](https://zh-hans.reactjs.org/)
+[![JavaScript 明星项目](https://img.shields.io/badge/JavaScript%20明星项目-E65100?style=flat-square)](https://risingstars.js.org/2019/zh)
+[![The State of JavaScript](https://img.shields.io/badge/The%20State%20of%20JavaScript-FE696A?style=flat-square)](https://2019.stateofjs.com/zh/)
+
+😄 Me
+
+&ensp;&ensp;
+[![前端技术学习指南](https://img.shields.io/badge/前端技术学习指南-4285F4?style=flat-square&logo=Blogger&logoColor=fff)](https://fe.rualc.com/)
+[![GitHub](https://img.shields.io/badge/seognil-181717?style=flat-square&logo=Github&logoColor=fff)](https://github.com/seognil/)
+[![Email](https://img.shields.io/badge/seognil@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=fff)](mailto:seognil@gmail.com)
+
+**Every expert was once a beginner, my bro.**
