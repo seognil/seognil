@@ -40,4 +40,4 @@ I'm seognil / LC / Chris Lin, yet another frontend developer.
 
 **Every expert was once a beginner, my bro.**
 
-> [<img src="http://motions.cat/gif/nhn/0015.gif" alt="The Colossus!" style="max-width: 300px;"/>](http://motions.cat/top.html#0015)
+> [![VR in the Dark!](http://motions.cat/gif/nhn/0040.gif)](http://motions.cat/top.html#0040)
