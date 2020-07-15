@@ -9,7 +9,7 @@ I'm seognil / LC / Chris Lin, yet another frontend developer.
 <!-- https://simpleicons.org/ -->
 <!-- https://colorswall.com/ -->
 
-⚡ Coding
+<br/>⚡ Coding
 <br/>&ensp;&ensp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-343434?style=flat-square&logo=JavaScript&logoColor=F7DF1E)
@@ -22,23 +22,22 @@ I'm seognil / LC / Chris Lin, yet another frontend developer.
 <br/>&ensp;&ensp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=fff)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat-square&logo=Google-Chrome&logoColor=fff)
-
-🏃 Interested
+<br/>🏃 Interested
 <br/>&ensp;&ensp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=fff)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=fff)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=Haskell&logoColor=fff)
-
-🇨🇳 Translation
+<br/>🇨🇳 Translation
 <br/>&ensp;&ensp;
 [![React 中文文档](https://img.shields.io/badge/React%20中文文档-282c34?style=flat-square)](https://zh-hans.reactjs.org/)
 [![JavaScript 明星项目](https://img.shields.io/badge/JavaScript%20明星项目-E65100?style=flat-square)](https://risingstars.js.org/2019/zh)
 [![The State of JavaScript](https://img.shields.io/badge/The%20State%20of%20JavaScript-FE696A?style=flat-square)](https://2019.stateofjs.com/zh/)
-
-😄 Me
+<br/>😄 Me
 <br/>&ensp;&ensp;
 [![前端技术学习指南](https://img.shields.io/badge/前端技术学习指南-4285F4?style=flat-square&logo=Blogger&logoColor=fff)](https://fe.rualc.com/)
 [![GitHub](https://img.shields.io/badge/seognil-181717?style=flat-square&logo=Github&logoColor=fff)](https://github.com/seognil/)
 [![Email](https://img.shields.io/badge/seognil@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=fff)](mailto:seognil@gmail.com)
 
 **Every expert was once a beginner, my bro.**
+
+> [<img src="http://motions.cat/gif/nhn/0015.gif" alt="The Colossus!" style="max-width: 300px;"/>](http://motions.cat/top.html#0015)
