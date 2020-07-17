@@ -4,8 +4,9 @@
 
 > Hi there 👋 I'm seognil / LC / Chris Lin, yet another frontend developer.
 
-**Every expert was once a beginner, my bro.**
+**⚡ Every expert was once a beginner, my bro.**
 
+&ensp;&ensp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-343434?style=flat-square&logo=JavaScript&logoColor=F7DF1E)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
@@ -30,7 +31,6 @@
 [![前端技术学习指南](https://img.shields.io/badge/前端技术学习指南-4285F4?style=flat-square&logo=Blogger&logoColor=fff)](https://fe.rualc.com/)
 [![GitHub](https://img.shields.io/badge/seognil-181717?style=flat-square&logo=Github&logoColor=fff)](https://github.com/seognil)
 [![Email](https://img.shields.io/badge/seognil@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=fff)](mailto:seognil@gmail.com)
-
 
 <!-- ↓ Dude, You are awesome -->
 <!-- https://github.com/syfxlin/syfxlin -->
