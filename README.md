@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=seognil&show_icons=true&title_color=00b8ff&icon_color=00ff9f&text_color=9f9f9f&bg_color=151515" alt="Seognil's github stats"/>
 
-# Seognil LC
+# seognil LC
 
 > Hi there 👋 I'm seognil / LC / Chris Lin, yet another frontend developer.
 
