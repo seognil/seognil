@@ -1,6 +1,9 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=seognil&show_icons=true&title_color=00b8ff&icon_color=00ff9f&text_color=9f9f9f&bg_color=151515" alt="Seognil's github stats"/>
 
-I'm seognil / LC / Chris Lin, yet another frontend developer.
+# Seognil LC
+
+> Hi there 👋 I'm seognil / LC / Chris Lin, yet another frontend developer.  
+> **Every expert was once a beginner, my bro.**
 
 <!-- ↓ Dude, You are awesome -->
 <!-- https://github.com/syfxlin/syfxlin -->
@@ -8,6 +11,8 @@ I'm seognil / LC / Chris Lin, yet another frontend developer.
 <!-- https://shields.io/category/other -->
 <!-- https://simpleicons.org/ -->
 <!-- https://colorswall.com/ -->
+
+<!-- > [<img src="http://motions.cat/gif/nhn/0040.gif" alt="VR in the Dark!" width="30%" align="right"/>](http://motions.cat/top.html#0040) -->
 
 <br/>⚡ Coding
 <br/>&ensp;&ensp;
@@ -37,7 +42,3 @@ I'm seognil / LC / Chris Lin, yet another frontend developer.
 [![前端技术学习指南](https://img.shields.io/badge/前端技术学习指南-4285F4?style=flat-square&logo=Blogger&logoColor=fff)](https://fe.rualc.com/)
 [![GitHub](https://img.shields.io/badge/seognil-181717?style=flat-square&logo=Github&logoColor=fff)](https://github.com/seognil/)
 [![Email](https://img.shields.io/badge/seognil@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=fff)](mailto:seognil@gmail.com)
-
-**Every expert was once a beginner, my bro.**
-
-> [<img src="http://motions.cat/gif/nhn/0040.gif" alt="VR in the Dark!" width="30%"/>](http://motions.cat/top.html#0040)
