@@ -41,6 +41,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=seognil&show_icons=true&theme=tokyonight&hide_title=true" alt="Seognil's github stats" height="195px" />
+</div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seognil&theme=dracula&layout=compact&card_width=300" alt="Seognil's Top Langs" height="175px" />
   <a href="https://seognil-craft.github.io/qlocktwo"><img src="https://github.com/seognil-craft/qlocktwo/blob/master/demo-preview.png?raw=true" alt="qlocktwo preview" height="175px"/></a>
 </div>
+
