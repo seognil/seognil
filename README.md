@@ -25,6 +25,7 @@
 [![The State of JavaScript](https://img.shields.io/badge/The%20State%20of%20JavaScript-FE696A?style=flat-square)](https://2019.stateofjs.com/zh/)
 <br/>😄 Me
 <br/>&ensp;&ensp;
+[![Resume](https://img.shields.io/badge/Resume-00A98F?style=flat-square&logo=About.me&logoColor=fff)](https://github.com/seognil/resume)
 [![GitHub](https://img.shields.io/badge/seognil-181717?style=flat-square&logo=Github&logoColor=fff)](https://github.com/seognil)
 [![Email](https://img.shields.io/badge/seognil@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=fff)](mailto:seognil@gmail.com)
 
