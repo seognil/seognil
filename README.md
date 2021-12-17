@@ -1,33 +1,55 @@
 # seognil LC
 
+<a href="https://profile.codersrank.io/user/seognil">
+  <img width="50%" align="right" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=seognil" />
+</a>
+
+<a href="https://github.com/seognil?tab=repositories&q=&type=source">
+  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=seognil&show_icons=true&hide_title=true" alt="Seognil's github stats" />
+</a>
+
 > Hi there 👋 I'm seognil / LC / Chris Lin, yet another frontend developer.
 
-**⚡ Every expert was once a beginner, my bro.**
-<br/>&ensp;&ensp;
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/JavaScript-343434?style=flat-square&logo=JavaScript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=fff)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=Tailwind-CSS&logoColor=fff)
-![RxJS](https://img.shields.io/badge/RxJS-D81B60?style=flat-square&logo=RxJS&logoColor=fff)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=fff)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=fff)
-![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat-square&logo=Google-Chrome&logoColor=fff)
-<br/>💻 Works
-<br/>&ensp;&ensp;
-[![前端指南](https://img.shields.io/badge/前端指南-4285F4?style=flat-square&logo=Blogger&logoColor=fff)](https://fe.rualc.com/)
-[![LeetCode 刷题](https://img.shields.io/badge/LeetCode%20刷题-f89f1b?style=flat-square)](https://github.com/seognil-study/leetcode)
-[![Webpack 从零开始](https://img.shields.io/badge/Webpack%20从零开始-8dd6f9?style=flat-square)](https://github.com/seognil-study/webpack-playground)
-[![项目升级记录](https://img.shields.io/badge/项目升级记录-764abc?style=flat-square)](https://github.com/seognil-study/multi-systems-demo)
-[![qlocktwo](https://img.shields.io/badge/qlocktwo-00b8ff?style=flat-square)](https://github.com/seognil-craft/qlocktwo)
-[![React 中文文档](https://img.shields.io/badge/React%20中文文档-34383f?style=flat-square)](https://zh-hans.reactjs.org/)
-[![JavaScript 明星项目](https://img.shields.io/badge/JavaScript%20明星项目-E65100?style=flat-square)](https://risingstars.js.org/2019/zh)
-[![The State of JavaScript](https://img.shields.io/badge/The%20State%20of%20JavaScript-FE696A?style=flat-square)](https://2019.stateofjs.com/zh/)
-<br/>😄 Me
-<br/>&ensp;&ensp;
-[![Resume](https://img.shields.io/badge/Resume-00A98F?style=flat-square&logo=About.me&logoColor=fff)](https://github.com/seognil/resume)
-[![GitHub](https://img.shields.io/badge/seognil-181717?style=flat-square&logo=Github&logoColor=fff)](https://github.com/seognil)
-[![Email](https://img.shields.io/badge/seognil@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=fff)](mailto:seognil@gmail.com)
+### ⚡ Every expert was once a beginner, my bro.
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=ffffff)](https://jkchao.github.io/typescript-book-chinese/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-343434?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)](https://zh.javascript.info/)
+[![React](https://img.shields.io/badge/React-23272F?style=for-the-badge&logo=React&logoColor=139EC9)](https://reactjs.org/)
+[![Recoil.js](https://img.shields.io/badge/Recoil.js-3678E5?style=for-the-badge&logo=RxJS&logoColor=fff)](https://recoiljs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=Tailwind-CSS&logoColor=fff)](https://tailwindcss.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=fff)](https://nodejs.org/api/)
+[![RxJS](https://img.shields.io/badge/RxJS-D81B60?style=for-the-badge&logo=RxJS&logoColor=fff)](https://reactive.how/)
+
+### 💻 Environments
+
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=fff)](https://code.visualstudio.com/)
+[![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=Google-Chrome&logoColor=fff)](https://www.google.com/chrome/)
+[![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=Apple&logoColor=fff)](https://www.apple.com.cn/macbook-air/)
+
+### 🗂️ Previous Works
+
+[![LeetCode 刷题](https://img.shields.io/badge/LeetCode%20刷题-f89f1b?style=for-the-badge)](https://github.com/seognil-study/leetcode)
+[![Webpack 从零开始](https://img.shields.io/badge/Webpack%20从零开始-8dd6f9?style=for-the-badge)](https://github.com/seognil-study/webpack-playground)
+[![项目升级记录](https://img.shields.io/badge/项目升级记录-764abc?style=for-the-badge)](https://github.com/seognil-study/multi-systems-demo)
+[![type-done](https://img.shields.io/badge/type%20done-007ACC?style=for-the-badge)](https://www.npmjs.com/package/type-done)
+
+### 😄 About Me
+
+[![一个前端工程师的自我修养](https://img.shields.io/badge/一个前端工程师的自我修养-4285F4?style=for-the-badge&logo=write.as&logoColor=fff)](https://rualc.com/)
+[![Resume](https://img.shields.io/badge/Resume-00A98F?style=for-the-badge&logo=About.me&logoColor=fff)](https://github.com/seognil/resume)
+[![GitHub](https://img.shields.io/badge/seognil-181717?style=for-the-badge&logo=Github&logoColor=fff)](https://github.com/seognil)
+[![Email](https://img.shields.io/badge/seognil@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=fff)](mailto:seognil@gmail.com)
+
+### 📕 Some Blog Posts
+
+- [我都从哪学习](https://rualc.com/study/where-do-i-learn-from/)
+- [JavaScript 语言基础](https://rualc.com/cs/javascript-language-basic/)
+
+<a href="https://seognil.github.io/qlocktwo/">
+  <img src="https://github.com/seognil/qlocktwo/blob/master/demo-preview.png?raw=true" alt="qlocktwo preview" height="175px"/>
+</a>
+
+![seognil](https://komarev.com/ghpvc/?username=seognil&label=Visitors)
 
 <!-- ↓ Dude, You are awesome -->
 <!-- https://github.com/syfxlin/syfxlin -->
@@ -40,11 +62,4 @@
 
 <!-- <a href="http://motions.cat/top.html#0040"><img src="http://motions.cat/gif/nhn/0040.gif" alt="VR in the Dark!" height="195px" /></a> -->
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seognil&show_icons=true&theme=tokyonight&hide_title=true" alt="Seognil's github stats" height="195px" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seognil&theme=dracula&layout=compact&card_width=300" alt="Seognil's Top Langs" height="175px" />
-  <a href="https://seognil-craft.github.io/qlocktwo"><img src="https://github.com/seognil-craft/qlocktwo/blob/master/demo-preview.png?raw=true" alt="qlocktwo preview" height="175px"/></a>
-</div>
-
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seognil&theme=dracula&layout=compact&card_width=300" alt="Seognil's Top Langs" height="175px" /> -->
