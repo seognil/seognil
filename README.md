@@ -15,20 +15,20 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=ffffff)](https://jkchao.github.io/typescript-book-chinese/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-343434?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)](https://zh.javascript.info/)
 [![React](https://img.shields.io/badge/React-23272F?style=for-the-badge&logo=React&logoColor=139EC9)](https://reactjs.org/)
-[![Recoil.js](https://img.shields.io/badge/Recoil.js-3678E5?style=for-the-badge&logo=RxJS&logoColor=fff)](https://recoiljs.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=Tailwind-CSS&logoColor=fff)](https://tailwindcss.com/)
+[![Recoil.js](https://img.shields.io/badge/Recoil-3678E5?style=for-the-badge&logo=RxJS&logoColor=fff)](https://recoiljs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=Tailwind-CSS&logoColor=fff)](https://tailwindcss.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=fff)](https://nodejs.org/api/)
 [![RxJS](https://img.shields.io/badge/RxJS-D81B60?style=for-the-badge&logo=RxJS&logoColor=fff)](https://reactive.how/)
 
 ### 💻 Environments
 
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=fff)](https://code.visualstudio.com/)
-[![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=Google-Chrome&logoColor=fff)](https://www.google.com/chrome/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=fff)](https://code.visualstudio.com/)
+[![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=Google-Chrome&logoColor=fff)](https://www.google.com/chrome/)
 [![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=Apple&logoColor=fff)](https://www.apple.com.cn/macbook-air/)
 
 ### 🗂️ Previous Works
 
-[![LeetCode 刷题](https://img.shields.io/badge/LeetCode%20刷题-f89f1b?style=for-the-badge)](https://github.com/seognil-study/leetcode)
+[![LeetCode](https://img.shields.io/badge/LeetCode-f89f1b?style=for-the-badge)](https://github.com/seognil-study/leetcode)
 [![Webpack 从零开始](https://img.shields.io/badge/Webpack%20从零开始-8dd6f9?style=for-the-badge)](https://github.com/seognil-study/webpack-playground)
 [![项目升级记录](https://img.shields.io/badge/项目升级记录-764abc?style=for-the-badge)](https://github.com/seognil-study/multi-systems-demo)
 [![type-done](https://img.shields.io/badge/type%20done-007ACC?style=for-the-badge)](https://www.npmjs.com/package/type-done)
