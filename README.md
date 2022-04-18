@@ -1,4 +1,4 @@
-# seognil LC
+# Chris Lin (@seognil)
 
 <a href="https://profile.codersrank.io/user/seognil">
   <img width="50%" align="right" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=seognil" />
@@ -8,7 +8,7 @@
   <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=seognil&show_icons=true&hide_title=true" alt="Seognil's github stats" />
 </a>
 
-> Hi there 👋 I'm seognil / LC / Chris Lin, yet another frontend developer.
+> Hi there 👋 I'm Chris Lin (@seognil), yet another frontend developer.
 
 ### ⚡ Every expert was once a beginner, my bro.
 
