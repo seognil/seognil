@@ -35,15 +35,15 @@
 
 ### 😄 About Me
 
-[![一个前端工程师的自我修养](https://img.shields.io/badge/一个前端工程师的自我修养-4285F4?style=for-the-badge&logo=write.as&logoColor=fff)](https://rualc.com/)
+[![一个前端工程师的自我修养](https://img.shields.io/badge/一个前端工程师的自我修养-4285F4?style=for-the-badge&logo=write.as&logoColor=fff)](https://rualc.me/)
 [![Resume](https://img.shields.io/badge/Resume-00A98F?style=for-the-badge&logo=About.me&logoColor=fff)](https://github.com/seognil/resume)
 [![GitHub](https://img.shields.io/badge/seognil-181717?style=for-the-badge&logo=Github&logoColor=fff)](https://github.com/seognil)
 [![Email](https://img.shields.io/badge/seognil@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=fff)](mailto:seognil@gmail.com)
 
 ### 📕 Some Blog Posts
 
-- [我都从哪学习](https://rualc.com/study/where-do-i-learn-from/)
-- [JavaScript 语言基础](https://rualc.com/cs/javascript-language-basic/)
+- [我都从哪学习](https://rualc.me/study/where-do-i-learn-from/)
+- [JavaScript 语言基础](https://rualc.me/cs/javascript-language-basic/)
 
 <a href="https://seognil.github.io/qlocktwo/">
   <img src="https://github.com/seognil/qlocktwo/blob/master/demo-preview.png?raw=true" alt="qlocktwo preview" height="175px"/>
